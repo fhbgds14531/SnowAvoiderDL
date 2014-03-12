@@ -6,4 +6,6 @@ Version 0.462:
 Version 0.464:    
     Downloads from a new dedicated repo.    
 Version 0.465:    
-    Ctrl+r resets the current level.
+    Ctrl+r resets the current level.    
+Version 0.466:    
+    fix level crash bug
