@@ -4,4 +4,6 @@ Version 0.46:
 Version 0.462:
     Single color powerups.    
 Version 0.464:    
-    Downloads from a new dedicated repo.
+    Downloads from a new dedicated repo.    
+Version 0.465:    
+    Ctrl+r resets the current level.
