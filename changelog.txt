@@ -1,11 +1,1 @@
-Version 0.46:    
-
-    You can go back by going down to previous levels. Added a powerup that pauses the snow.    
-Version 0.462:
-    Single color powerups.    
-Version 0.464:    
-    Downloads from a new dedicated repo.    
-Version 0.465:    
-    Ctrl+r resets the current level.    
-Version 0.466:    
-    fix level crash bug
+Version 0.5:    Literally everything is different. As always, report bugs at:   http://www.reddit.com/r/snowavoider
